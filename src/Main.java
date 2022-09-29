@@ -83,6 +83,7 @@ public class Main {
 
         }
         // задание 6
+        System.out.println("сделал ДЗ");
 
     }
 }
